@@ -1,1 +1,1 @@
-# Cansat-MC
+# Cansat-Mission Control (MC)
