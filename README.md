@@ -1,1 +1,1 @@
-# Cansat Mission Control (MC)
+# Hyperscpectral Scene Analysis
