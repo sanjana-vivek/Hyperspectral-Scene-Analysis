@@ -1,1 +1,1 @@
-# Hyperscpectral Scene Analysis
+# Hyperspectral Scene Analysis
